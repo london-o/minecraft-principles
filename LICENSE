@@ -1,0 +1,18 @@
+除另有说明外，本仓库中的文章内容（`articles/`、`index.md`、`about.md`、`README.md`）采用
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International（CC BY-NC-SA 4.0）许可。
+
+许可协议全文见：
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+
+你可以自由地共享与演绎本作品，但需要：
+- 署名（Attribution）
+- 非商业性使用（NonCommercial）
+- 以相同方式共享（ShareAlike）
+
+范围说明：
+- 本仓库不包含 Minecraft 的源码或资源文件。文章中的机制分析来自笔者对反编译代码的阅读与理解，
+  以自然语言转述，未逐句摘录源码。
+- 文中提到的第三方项目、模组与链接（例如 MCP-Reborn、Subtick 模组），其权利归各自作者所有，
+  不在上述许可范围内。
+- Minecraft 是 Mojang Studios / Microsoft 的商标。本项目是非官方的爱好者研究项目，
+  与 Mojang Studios 及 Microsoft 无关联，也未获其授权或认可。
