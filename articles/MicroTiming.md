@@ -1,10 +1,10 @@
 # 浅谈微时序：一个游戏刻里有哪些阶段
 
-该篇文章所属文集：[Minecraft 原理探究](../README.md)
+该篇文章所属文集：[Minecraft 原理探究](../index.html)
 
 Tips：
 
-- 本文是 [Minecraft 原理探究](../README.md) 系列的一篇，如果发现内容有问题，欢迎提 Issue。
+- 本文是 [Minecraft 原理探究](../index.html) 系列的一篇，如果发现内容有问题，欢迎提 Issue。
 - 阅读前最好对游戏机制及编程有一定了解，不过不懂的地方也可以去问 AI 或留言。
 
 ## 微时序怎么来的
