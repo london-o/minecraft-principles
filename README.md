@@ -3,7 +3,7 @@
 关于 Minecraft（Java Edition）运行原理的系列文章。全部结论基于 MCJE 1.21.4 的反编译源码，由 AI 阅读代码、再由人工复核与润色。
 
 - 反编译支持：[MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) 1.21.4
-- GitHub Pages 站点：`https://london-o.github.io/minecraft-principles/`
+- GitHub Pages 站点：<https://london-o.github.io/minecraft-principles/>
 - B 站文集：<https://www.bilibili.com/opus/1255709924719067185>
 - 项目简介：[about.md](about.md)
 
